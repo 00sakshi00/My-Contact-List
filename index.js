@@ -20,16 +20,16 @@ app.use(express.static('assets'));
 
 var contactList = [
     {
-        name:"Sakshi",
-        phone:"6388719526"
+        name:"abc",
+        phone:"645321566"
     },
     {
-        name:"Shubhanshi",
-        phone:"6388761027"
+        name:"def",
+        phone:"654156127"
     },
     {
-        name:"Mumma",
-        phone:"9838494394"
+        name:"ghi",
+        phone:"456135484"
     }
 ];
 
